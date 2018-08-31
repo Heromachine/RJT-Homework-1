@@ -1,3 +1,4 @@
+package pNum;
 import java.util.Scanner; 
 
 public class main {

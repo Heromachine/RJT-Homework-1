@@ -1,3 +1,4 @@
+package fSeries;
 import java.util.Scanner; 
 
 public class main {

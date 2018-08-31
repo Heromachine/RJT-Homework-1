@@ -1,3 +1,4 @@
+package aNum;
 import java.util.*;
 public class main {
 

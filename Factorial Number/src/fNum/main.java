@@ -1,3 +1,4 @@
+package fNum;
 import java.util.*;
 
 public class main {

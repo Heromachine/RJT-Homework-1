@@ -1,6 +1,9 @@
+package bSort;
 
 public class main {
 
+	//Nice printout
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
